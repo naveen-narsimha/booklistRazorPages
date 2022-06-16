@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Migrations",
+    "\\Model",
+    "\\Pages",
+    "\\Pages\\bookList",
+    "\\Pages\\Shared"
+  ],
+  "SelectedNode": "\\Migrations\\20220511193705_AddbookToDb.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
